@@ -76,8 +76,8 @@ Value: +1234567890
 ### Pre-configured Settings
 
 These are already set in main.py:
-- ✅ Bot Token: 8276232278:AAFaMBBk-8b7RSsVBSN8ymc19cd-EhxmiKM
-- ✅ Your Channel ID: -1003206076824
+- ✅ Bot Token: 
+- ✅ Your Channel ID: 
 - ✅ Source Channels: All 5 signal channels configured
 
 ### What You Need to Add
@@ -238,5 +238,6 @@ venom-crypto-bot/
 *Bot:* @VenomCryptoTradingBot  
 *Channel:* -1003206076824  
 *Status:* Production Ready
+
 
 Made with 🐍 for crypto traders
