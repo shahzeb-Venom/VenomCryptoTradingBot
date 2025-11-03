@@ -1,0 +1,37 @@
+# Environment variables
+.env
+
+# Session files
+*.session
+*.session-journal
+venom_bot_session.session
+user_session.session
+
+# Python cache
+_pycache_/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Replit
+.replit
+replit.nix
