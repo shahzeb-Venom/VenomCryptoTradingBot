@@ -4,8 +4,8 @@
 
 
 Bot Name: @VenomCryptoTradingBot
-Bot Token: 8276232278:AAFaMBBk-8b7RSsVBSN8ymc19cd-EhxmiKM
-Channel ID: -1003206076824
+Bot Token: YOUR BOT TOKEN
+Channel ID: YOUR CHANNEL ID
 Channel Link: https://t.me/VenomCryptoTradingBot
 
 
@@ -176,5 +176,6 @@ python
 ---
 
 *Everything at a glance!* 📋
+
 
 Keep this for quick reference.
