@@ -15,8 +15,8 @@ logger = logging.getLogger(_name_)
 # Bot Configuration - Your Venom Bot Details
 API_ID = os.environ.get('API_ID')
 API_HASH = os.environ.get('API_HASH')
-BOT_TOKEN = '8276232278:AAFaMBBk-8b7RSsVBSN8ymc19cd-EhxmiKM'
-YOUR_CHANNEL_ID = -1003206076824  # Venom Crypto Trading Bot channel
+BOT_TOKEN = 'YOUR BOT TOKKEN'
+YOUR_CHANNEL_ID = YOUR CHANNEL ID  # Venom Crypto Trading Bot channel
 SESSION_NAME = 'venom_bot_session'
 
 # Source channels to monitor - All your signal sources
@@ -413,4 +413,5 @@ async def main():
     await bot.run_until_disconnected()
 
 if _name_ == '_main_':
+
     asyncio.run(main())
